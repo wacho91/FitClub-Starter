@@ -275,6 +275,16 @@
 
     .hero-image {
         position: relative;
+        width: 15rem;
+        left: 7rem;
+        top: 4rem;
+        align-self: center;
+    }
+
+    .hero-image-back {
+        width: 15rem;
+        left: 1rem;
+        top: 0rem;
     }
 
 }
